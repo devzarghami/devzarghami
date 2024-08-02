@@ -14,18 +14,25 @@
 
 **Front-end:**
 - 🌟 **Frameworks:** Vue.js, Nuxt.js, Svelte.js
-- 🎨 **Styling:** Tailwind CSS, CSS-in-JS
-- ⚙️ **State Management:** Vuex, RxJS
+- 🎨 **Styling:** Tailwind CSS, Sass
+- ⚙️ **State Management:** Vuex, Pinia , Bloc
 
 **Back-end:**
-- 🚀 **Node.js Frameworks:** Express.js, NestJS, AdonisJS
+- 🚀 **Node.js Frameworks:** ExpressJS, NestJS, AdonisJS
 - 🔗 **Blockchain:** Solidity, Web3.js, Ethers.js
-- 🗃️ **Databases:** MySQL, PostgreSQL, MongoDB
+- 🗃️ **Databases:** MySQL, PostgreSQL, MongoDB, InfluxDB
+
+**Microservices:**
+- 🔄 **Architecture:** Design and implementation of microservice architectures.
+- 🛠️ **Tools:** Docker, gRPC, RabbitMQ, Nats , ZeroMQ
 
 **DevOps:**
-- 🐳 **Containerization:** Docker, Kubernetes
-- 🔄 **CI/CD:** GitHub Actions, Jenkins
-- ☁️ **Cloud:** AWS, Azure, Google Cloud
+- 🐳 **Containerization:** Docker, Docker Stack, Docker Swarm
+- ☁️ **Cloud:** AWS
+
+**Agile Methodologies:**
+- ⚡ **Scrum:** Expertise in Scrum methodologies for agile project management.
+- 🌱 **Gitflow:** Proficient in Gitflow workflow for efficient and scalable version control.
 
 ---
 
