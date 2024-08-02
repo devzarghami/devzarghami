@@ -52,18 +52,9 @@
 
 ---
 
-#### 🏆 Achievements
-
-- **Open Source Contributor**: Contributed to several high-profile projects.
-- **Certified Developer**: AWS Certified Solutions Architect, Certified Kubernetes Administrator (CKA).
-- **Speaker and Mentor**: Regular speaker at tech conferences and mentor to junior developers.
-
----
-
 #### 🌱 Currently Learning
 
-- **Advanced Blockchain Development**: Exploring Layer 2 solutions and DeFi protocols.
-- **Machine Learning**: Integrating ML models into web applications.
+- **Deepening Knowledge in Blockchain and Cryptocurrency**: Focusing on advanced concepts and emerging trends in the blockchain space.
 
 ---
 
