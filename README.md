@@ -1,4 +1,6 @@
-<img src="cover.jpg" alt="banner that says Dev.zarghami - software engineer">
+# Hi, I'm Dev Zarghami 👋🏾 👩🏾‍💻
+
+<img style="border-radius: 25px;" src="cover.jpg" alt="banner that says Dev.zarghami - software engineer">
 
 - 👋 Hi, I’m @devzarghami
 - 👀 I’m interested in programming
