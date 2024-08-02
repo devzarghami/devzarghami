@@ -1,3 +1,5 @@
+<img src="cover.jpg" alt="banner that says Dev.zarghami - software engineer">
+
 - 👋 Hi, I’m @devzarghami
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning golang
