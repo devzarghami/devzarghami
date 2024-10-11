@@ -1,4 +1,4 @@
-# 👋 Hello, I'm ArtinZarghami!
+# 👋 Hello, I'm Artin Zarghami!
 
 #### 💻 Full-Stack Developer | 🌐 Blockchain Enthusiast | 🚀 Innovator
 
