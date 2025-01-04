@@ -76,10 +76,4 @@ Feel free to reach out to me via [dev.zarghami@gmail.com](mailto:dev.zarghami@gm
 
 ---
 
-#### 📊 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=devzarghami&show_icons=true&theme=radical)
-
----
-
 ### ✨ Let's Build Something Amazing Together!
