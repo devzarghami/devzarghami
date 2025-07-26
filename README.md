@@ -13,7 +13,7 @@
 #### 🛠️ Tech Stack
 
 **Front-end:**
-- 🌟 **Frameworks:** Vue.js, Nuxt.js, Svelte.js
+- 🌟 **Frameworks:** Vue.js, Nuxt.js, Svelte.js , Rxjs , Astro.js
 - 🎨 **Styling:** Tailwind CSS, Sass
 - ⚙️ **State Management:** Vuex, Pinia , Bloc
 
@@ -24,7 +24,7 @@
 
 **Microservices:**
 - 🔄 **Architecture:** Design and implementation of microservice architectures.
-- 🛠️ **Tools:** Docker, gRPC, RabbitMQ, Nats , ZeroMQ
+- 🛠️ **Tools:** Docker, gRPC, Nats , ZeroMQ
 
 **DevOps:**
 - 🐳 **Containerization:** Docker, Docker Stack, Docker Swarm
