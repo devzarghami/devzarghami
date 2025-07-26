@@ -34,28 +34,6 @@
 - ⚡ **Scrum:** Expertise in Scrum methodologies for agile project management.
 - 🌱 **Gitflow:** Proficient in Gitflow workflow for efficient and scalable version control.
 
----
-
-#### 🚀 Projects
-
-**[Erythron](https://pwa.erythron.net/)**: Crypto Currency Exchange Mobile App (Frontend/Backend)
-
-**[Xchanger](https://xchanger.uk/)**: Online Trading Platforms (Frontend/Backend)
-
-**[Atiex](https://atiex.uk/)**: Online Trading Platforms (Frontend/Backend)
-
-**[SalamCrypto](https://salamcrypto.net/)**: Crypto Currency Exchange Website (Frontend)
-
-**[Oraclez Dex](https://odex.oraclez.xyz/)**: Dex Platform (Frontend)
-
-**[Hamtapay](https://hamtapay.net/)**: Crypto Currency Exchange Website (Frontend)
-
-**[Hamtapay Dashboard](https://panel.hamtapay.net/login)**: Crypto Currency Exchange Dashboard (Frontend)
-
-**[Lottery724](https://testnet.lottery724.com/)**: Lottery platform based on EVM blockchains (Frontend)
-
----
-
 #### 🌐 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/) 🌐
